@@ -1,0 +1,22 @@
+.picoflasagna {
+    height: auto;
+    width: 100px;
+}
+
+div {
+    color: red;
+
+}
+
+.button {
+    background-color: orange;
+}
+
+#difffont {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#hello {
+    background-color: aqua;
+}
